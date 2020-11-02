@@ -1,0 +1,15 @@
+==> 2019-12-05 12:02:43 <==
+# cmd: C:\Users\Felix\Miniconda3\Scripts\conda-script.py create -n siginea python=3.7
+# conda version: 4.6.14
++defaults::ca-certificates-2019.11.27-0
++defaults::certifi-2019.11.28-py37_0
++defaults::openssl-1.1.1d-he774522_3
++defaults::pip-19.3.1-py37_0
++defaults::python-3.7.5-h8c8aaf0_0
++defaults::setuptools-42.0.2-py37_0
++defaults::sqlite-3.30.1-he774522_0
++defaults::vc-14.1-h0510ff6_4
++defaults::vs2015_runtime-14.16.27012-hf0eaf9b_0
++defaults::wheel-0.33.6-py37_0
++defaults::wincertstore-0.2-py37_0
+# update specs: ['python=3.7']

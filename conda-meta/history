@@ -13,3 +13,41 @@
 +defaults::wheel-0.33.6-py37_0
 +defaults::wincertstore-0.2-py37_0
 # update specs: ['python=3.7']
+==> 2020-11-02 20:03:59 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install -c anaconda pandas
+# conda version: 4.8.3
+-defaults::ca-certificates-2019.11.27-0
+-defaults::certifi-2019.11.28-py37_0
+-defaults::openssl-1.1.1d-he774522_3
+-defaults::pip-19.3.1-py37_0
+-defaults::python-3.7.5-h8c8aaf0_0
+-defaults::setuptools-42.0.2-py37_0
+-defaults::sqlite-3.30.1-he774522_0
+-defaults::vc-14.1-h0510ff6_4
+-defaults::vs2015_runtime-14.16.27012-hf0eaf9b_0
+-defaults::wheel-0.33.6-py37_0
+-defaults::wincertstore-0.2-py37_0
++anaconda/noarch::python-dateutil-2.8.1-py_0
++anaconda/noarch::pytz-2020.1-py_0
++anaconda/noarch::six-1.15.0-py_0
++anaconda/win-64::blas-1.0-mkl
++anaconda/win-64::ca-certificates-2020.10.14-0
++anaconda/win-64::certifi-2020.6.20-py37_0
++anaconda/win-64::intel-openmp-2020.2-254
++anaconda/win-64::mkl-2020.2-256
++anaconda/win-64::mkl_random-1.1.1-py37h47e9c7a_0
++anaconda/win-64::openssl-1.1.1h-he774522_0
++anaconda/win-64::pandas-1.1.3-py37ha925a31_0
++defaults/win-64::mkl-service-2.3.0-py37hb782905_0
++defaults/win-64::mkl_fft-1.2.0-py37h45dec08_0
++defaults/win-64::numpy-1.19.2-py37hadc3359_0
++defaults/win-64::numpy-base-1.19.2-py37ha3acd2a_0
++defaults/win-64::pip-19.3.1-py37_0
++defaults/win-64::python-3.7.5-h8c8aaf0_0
++defaults/win-64::setuptools-42.0.2-py37_0
++defaults/win-64::sqlite-3.30.1-he774522_0
++defaults/win-64::vc-14.1-h0510ff6_4
++defaults/win-64::vs2015_runtime-14.16.27012-hf0eaf9b_0
++defaults/win-64::wheel-0.33.6-py37_0
++defaults/win-64::wincertstore-0.2-py37_0
+# update specs: ['pandas']
